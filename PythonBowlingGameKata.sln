@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonBowlingGameKata", "PythonBowlingGameKata\PythonBowlingGameKata.pyproj", "{E98AD5AA-7BE9-48BE-99BA-BD3940868546}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonBowlingGameKata.Tests", "PythonBowlingGameKata.Tests\PythonBowlingGameKata.Tests.pyproj", "{7E779D26-08C9-41F1-89E1-ABD6F7022E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E98AD5AA-7BE9-48BE-99BA-BD3940868546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98AD5AA-7BE9-48BE-99BA-BD3940868546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E779D26-08C9-41F1-89E1-ABD6F7022E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E779D26-08C9-41F1-89E1-ABD6F7022E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
