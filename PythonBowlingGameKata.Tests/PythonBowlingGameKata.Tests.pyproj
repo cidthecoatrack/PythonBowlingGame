@@ -23,9 +23,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="bowlingGameTests.py" />
-    <Compile Include="test1.py">
-      <SubType>Code</SubType>
-    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PythonBowlingGameKata\PythonBowlingGameKata.pyproj">
+      <Name>PythonBowlingGameKata</Name>
+      <Project>{e98ad5aa-7be9-48be-99ba-bd3940868546}</Project>
+      <Private>True</Private>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
