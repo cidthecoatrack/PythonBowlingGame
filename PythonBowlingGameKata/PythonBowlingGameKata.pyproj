@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e98ad5aa-7be9-48be-99ba-bd3940868546</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonBowlingGameKata.py</StartupFile>
+    <StartupFile>bowlingGame.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PythonBowlingGameKata.py" />
+    <Compile Include="bowlingGame.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

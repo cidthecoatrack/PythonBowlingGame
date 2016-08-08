@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7e779d26-08c9-41f1-89e1-abd6f7022e28</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonBowlingGameKata.Tests.py</StartupFile>
+    <StartupFile>bowlingGameTests.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PythonBowlingGameKata.Tests.py" />
+    <Compile Include="bowlingGameTests.py" />
     <Compile Include="test1.py">
       <SubType>Code</SubType>
     </Compile>
